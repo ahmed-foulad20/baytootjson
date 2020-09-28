@@ -35,7 +35,7 @@
       "layout": "bannerImage",
       "items": [
         {
-          "category": 28,
+          "category": 2,
           "image": "https://baytoot.app/wp-content/uploads/2020/09/cropped-Untitled-5-1.jpg",
           "padding": 15.0,
           "radius": 20.0
@@ -46,7 +46,7 @@
       "layout": "bannerImage",
       "items": [
         {
-          "category": 29,
+          "category": 4,
           "image": "https://user-images.githubusercontent.com/1459805/62924796-0b80f900-bddb-11e9-98a6-8bc87bd4caaa.png",
           "padding": 15.0,
           "radius": 20.0
