@@ -54,10 +54,7 @@
       ]
     }
   ],
-  "VerticalLayout": {
-    "layout": "menu",
-    "name": "Our Products"
-  },
+ 
   "Setting": {
     "MainColor": "#3FC1BE",
     "ProductListLayout": "list"
