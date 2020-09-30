@@ -70,7 +70,8 @@
       "icon": "assets/icons/tabs/icon-category.png"
     },
     {
-      "layout": "category",
+       "layout": "category",
+      "categoryLayout": "card",
       "icon": "assets/icons/tabs/icon-search.png"
     },
     {
