@@ -53,7 +53,7 @@
         }
       ]
     },
-     { // belafia
+     { 
           "layout": "bannerImage",
           "items": [
             {
@@ -64,7 +64,7 @@
             }
           ]
         },
-     { // The Macaron King
+     { 
           "layout": "bannerImage",
           "items": [
             {
@@ -75,7 +75,7 @@
             }
           ]
         },
-     { // morog elsham
+     { 
           "layout": "bannerImage",
           "items": [
             {
