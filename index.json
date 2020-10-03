@@ -53,17 +53,39 @@
         }
       ]
     },
-     {
+     { // belafia
           "layout": "bannerImage",
           "items": [
             {
               "category": 14,
-              "image": "https://user-images.githubusercontent.com/1459805/62924796-0b80f900-bddb-11e9-98a6-8bc87bd4caaa.png",
+              "image": "https://baytoot.app/wp-content/uploads/2020/10/cropped-belafia.jpeg",
               "padding": 15.0,
               "radius": 20.0
             }
           ]
-        }
+        },
+     { // The Macaron King
+          "layout": "bannerImage",
+          "items": [
+            {
+              "category": 13,
+              "image": "https://baytoot.app/wp-content/uploads/2020/10/cropped-0332cece-0710-4ef5-9ebc-ecd7444f3192.jpeg",
+              "padding": 15.0,
+              "radius": 20.0
+            }
+          ]
+        },
+     { // morog elsham
+          "layout": "bannerImage",
+          "items": [
+            {
+              "category": 19,
+              "image": "https://baytoot.app/wp-content/uploads/2020/09/cropped-Landscape-2.jpg",
+              "padding": 15.0,
+              "radius": 20.0
+            }
+          ]
+        },
   ],
  
   "Setting": {
