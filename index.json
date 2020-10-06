@@ -47,7 +47,7 @@
       "layout": "bannerImage",
       "items": [
         {
-          "category": 2,
+          
           "image": "https://scontent.fbah1-1.fna.fbcdn.net/v/t1.0-9/120928174_129458118883277_3928315690890757510_o.jpg?_nc_cat=109&_nc_sid=8024bb&_nc_ohc=Oe0MSoIkKZoAX-a_3iQ&_nc_oc=AQlFXTivCq_z182lCHlH6DMQy84fGVJ8EZIyAhtsXvhE4NoVRSlz89XkcXdADEg-vqk&_nc_ht=scontent.fbah1-1.fna&oh=522836ec901ee8f1af942d761e7ee935&oe=5FA0F5DB",
           "padding": 15.0,
           "radius": 20.0
@@ -58,7 +58,7 @@
       "layout": "bannerImage",
       "items": [
         {
-          "category": 2,
+        
           "image": "https://scontent.fbah1-1.fna.fbcdn.net/v/t1.0-9/120934168_129458122216610_5725638202605782874_o.jpg?_nc_cat=111&_nc_sid=8024bb&_nc_ohc=D_U7y7whOGgAX98cu0F&_nc_ht=scontent.fbah1-1.fna&oh=5efb0357f4da3924cc9a455ce08ae6f3&oe=5F9FFE31",
           "padding": 15.0,
           "radius": 20.0
