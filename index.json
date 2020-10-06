@@ -1,64 +1,58 @@
-
 {
   "HorizonLayout": [
     {
       "layout": "bannerImage",
       "isSlider": true,
       "showBackground": true,
-      "upHeight": 300.0,
+      "isBlur": true,
       "padding": 20.0,
       "radius": 20.0,
+      "title": "Baytoot",
       "fontSize": 26.0,
+      "isSafeArea": true,
+      "showSearch": false,
       "items": [
         {
-          "category": 24,
-          "background": "https://scontent.fbah1-1.fna.fbcdn.net/v/t1.0-9/120395911_126600369169052_6346319576580616455_n.jpg?_nc_cat=107&_nc_sid=8024bb&_nc_ohc=brqNMGCp0aoAX__Z0ZM&_nc_ht=scontent.fbah1-1.fna&oh=7f16dbbe33bb460634f3cdc7587509cc&oe=5F9625F9",
+
           "image": "https://scontent.fbah1-1.fna.fbcdn.net/v/t1.0-9/120373539_126600262502396_6437868601540570386_o.jpg?_nc_cat=107&_nc_sid=8024bb&_nc_ohc=dp1wat_eTLsAX9EoY7R&_nc_ht=scontent.fbah1-1.fna&oh=cca9d35976c04a304ba83a9a1e0c4de8&oe=5F9922FF"
         },
         {
-          "category": 25,
-          "background": "https://scontent.fbah1-1.fna.fbcdn.net/v/t1.0-9/120452487_126600385835717_1990139374733964531_n.jpg?_nc_cat=103&_nc_sid=8024bb&_nc_ohc=lpFs8-PdpRAAX-eueHj&_nc_ht=scontent.fbah1-1.fna&oh=861f33a4abea6cfb5ca7fc8154ae642e&oe=5F9813CA",
+
           "image": "https://scontent.fbah1-1.fna.fbcdn.net/v/t1.0-9/120276409_126600205835735_5798003301365119612_o.jpg?_nc_cat=103&_nc_sid=8024bb&_nc_ohc=S6fB__ws2v0AX-AaCN4&_nc_ht=scontent.fbah1-1.fna&oh=ab24324b826a39359d143913c6f966e8&oe=5F986DB6"
         },
         {
-          "category": 26,
-          "background": "https://scontent.fbah1-1.fna.fbcdn.net/v/t1.0-9/120539205_126600375835718_6573350801171894630_n.jpg?_nc_cat=104&_nc_sid=8024bb&_nc_ohc=XuGOB31DmekAX-8ND0e&_nc_ht=scontent.fbah1-1.fna&oh=af5f770854819048cc9a0ae9156967b5&oe=5F96F03F",
+
           "image": "https://scontent.fbah1-1.fna.fbcdn.net/v/t1.0-9/120144025_125102482652174_1745184692150047853_n.jpg?_nc_cat=106&_nc_sid=8024bb&_nc_ohc=LS7d0yWC-i4AX8zE4DM&_nc_ht=scontent.fbah1-1.fna&oh=4ab496ec649d20ed88e32edc75b9767f&oe=5F96587A"
-        },
-        {
-          "category": 27,
-          "background": "https://scontent.fbah1-1.fna.fbcdn.net/v/t1.0-9/120449197_126600419169047_4936159580364369948_n.jpg?_nc_cat=102&_nc_sid=8024bb&_nc_ohc=qT7NXeRWHBsAX-qYBZ8&_nc_oc=AQnY6Mz-s8_mahq8eIxnTG33wV6boVMbpfLfNvqoAZP-CJ4gD61HKEcrZWVIrcUJXm8&_nc_ht=scontent.fbah1-1.fna&oh=b28c4f2204428b8f435e3eb4c3962282&oe=5F9816C9",
-          "image": "https://scontent.fbah1-1.fna.fbcdn.net/v/t1.0-9/120482526_126600202502402_8981251080427068361_o.jpg?_nc_cat=102&_nc_sid=8024bb&_nc_ohc=JPDsj939qx4AX9_olJq&_nc_ht=scontent.fbah1-1.fna&oh=796f0595ab8be295e472422137b52d3f&oe=5F95CE8E"
         }
       ]
     },
-      {
+    {
       "layout": "bannerImage",
       "items": [
         {
-         
+
           "image": "https://scontent.fbah1-1.fna.fbcdn.net/v/t1.0-9/120974818_129458125549943_5388383813630877429_o.jpg?_nc_cat=107&_nc_sid=8024bb&_nc_ohc=CRIPJ_xjRY8AX-c4qD-&_nc_ht=scontent.fbah1-1.fna&oh=e5bff89ab9cf524c85ad7e70ad8e6d90&oe=5FA04E03",
           "padding": 15.0,
           "radius": 20.0
         }
       ]
     },
-      {
+    {
       "layout": "bannerImage",
       "items": [
         {
-          
+
           "image": "https://scontent.fbah1-1.fna.fbcdn.net/v/t1.0-9/120928174_129458118883277_3928315690890757510_o.jpg?_nc_cat=109&_nc_sid=8024bb&_nc_ohc=Oe0MSoIkKZoAX-a_3iQ&_nc_oc=AQlFXTivCq_z182lCHlH6DMQy84fGVJ8EZIyAhtsXvhE4NoVRSlz89XkcXdADEg-vqk&_nc_ht=scontent.fbah1-1.fna&oh=522836ec901ee8f1af942d761e7ee935&oe=5FA0F5DB",
           "padding": 15.0,
           "radius": 20.0
         }
       ]
     },
-      {
+    {
       "layout": "bannerImage",
       "items": [
         {
-        
+
           "image": "https://scontent.fbah1-1.fna.fbcdn.net/v/t1.0-9/120934168_129458122216610_5725638202605782874_o.jpg?_nc_cat=111&_nc_sid=8024bb&_nc_ohc=D_U7y7whOGgAX98cu0F&_nc_ht=scontent.fbah1-1.fna&oh=5efb0357f4da3924cc9a455ce08ae6f3&oe=5F9FFE31",
           "padding": 15.0,
           "radius": 20.0
@@ -87,41 +81,40 @@
         }
       ]
     },
-     {
-          "layout": "bannerImage",
-          "items": [
-            {
-              "category": 14,
-              "image": "https://scontent.fbah1-1.fna.fbcdn.net/v/t1.0-9/120923157_129458178883271_8437705913765454269_o.jpg?_nc_cat=105&_nc_sid=8024bb&_nc_ohc=nHoRBZv0idQAX9uAmD9&_nc_ht=scontent.fbah1-1.fna&oh=f9a1557769a9a35a2472af35c6f95386&oe=5FA05909",
-              "padding": 15.0,
-              "radius": 20.0
-            }
-          ]
-        },
-       {
-          "layout": "bannerImage",
-          "items": [
-            {
-              "category": 13,
-              "image": "https://scontent.fbah1-1.fna.fbcdn.net/v/t1.0-9/120970575_129458242216598_1755832118325918679_o.jpg?_nc_cat=101&_nc_sid=8024bb&_nc_ohc=VytGgJYpyOYAX98tTNl&_nc_ht=scontent.fbah1-1.fna&oh=139c3bc4bcd41148d4341295374dddc5&oe=5FA3B4AE",
-              "padding": 15.0,
-              "radius": 20.0
-            }
-          ]
-        },
-       {
-          "layout": "bannerImage",
-          "items": [
-            {
-              "category": 19,
-              "image": "https://scontent.fbah1-1.fna.fbcdn.net/v/t1.0-9/120936816_129458248883264_5785916840098289790_o.jpg?_nc_cat=106&_nc_sid=8024bb&_nc_ohc=7wBr1u1Q_WQAX8XClg-&_nc_ht=scontent.fbah1-1.fna&oh=9da06ca445d0f11039717bf1b4e8c0e6&oe=5FA3C976",
-              "padding": 15.0,
-              "radius": 20.0
-            }
-          ]
+    {
+      "layout": "bannerImage",
+      "items": [
+        {
+          "category": 14,
+          "image": "https://scontent.fbah1-1.fna.fbcdn.net/v/t1.0-9/120923157_129458178883271_8437705913765454269_o.jpg?_nc_cat=105&_nc_sid=8024bb&_nc_ohc=nHoRBZv0idQAX9uAmD9&_nc_ht=scontent.fbah1-1.fna&oh=f9a1557769a9a35a2472af35c6f95386&oe=5FA05909",
+          "padding": 15.0,
+          "radius": 20.0
         }
+      ]
+    },
+    {
+      "layout": "bannerImage",
+      "items": [
+        {
+          "category": 13,
+          "image": "https://scontent.fbah1-1.fna.fbcdn.net/v/t1.0-9/120970575_129458242216598_1755832118325918679_o.jpg?_nc_cat=101&_nc_sid=8024bb&_nc_ohc=VytGgJYpyOYAX98tTNl&_nc_ht=scontent.fbah1-1.fna&oh=139c3bc4bcd41148d4341295374dddc5&oe=5FA3B4AE",
+          "padding": 15.0,
+          "radius": 20.0
+        }
+      ]
+    },
+    {
+      "layout": "bannerImage",
+      "items": [
+        {
+          "category": 19,
+          "image": "https://scontent.fbah1-1.fna.fbcdn.net/v/t1.0-9/120936816_129458248883264_5785916840098289790_o.jpg?_nc_cat=106&_nc_sid=8024bb&_nc_ohc=7wBr1u1Q_WQAX8XClg-&_nc_ht=scontent.fbah1-1.fna&oh=9da06ca445d0f11039717bf1b4e8c0e6&oe=5FA3C976",
+          "padding": 15.0,
+          "radius": 20.0
+        }
+      ]
+    }
   ],
- 
   "Setting": {
     "MainColor": "#3FC1BE",
     "ProductListLayout": "list"
@@ -136,10 +129,7 @@
       "categoryLayout": "card",
       "icon": "assets/icons/tabs/icon-category.png"
     },
-    {
-       "layout": "categoryl",
-      "icon": "assets/icons/tabs/icon-search.png"
-    },
+   
     {
       "layout": "cart",
       "icon": "assets/icons/tabs/icon-cart2.png"
