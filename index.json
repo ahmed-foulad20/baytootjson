@@ -39,7 +39,7 @@
         },
         {
           "section": "sweets",
-          "vendors" : [10,13],
+          "vendors" : [10,13,25,34],
           "image": "https://scontent.fbah1-1.fna.fbcdn.net/v/t1.0-9/121259681_131040028725086_4137058560438276952_o.jpg?_nc_cat=109&_nc_sid=8024bb&_nc_ohc=4zrsqzDo3jgAX-_LKpj&_nc_ht=scontent.fbah1-1.fna&oh=43788a24a2e7a9a963de9ebd764aaaee&oe=5FA5786E",
           "padding": 5.0,
           "radius": 20.0
